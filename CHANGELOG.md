@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.0.3 (2023-09-17)
+
+Full Changelog: [v0.0.2...v0.0.3](https://github.com/DefinitelyATestOrg/test-4-repo-1/compare/v0.0.2...v0.0.3)
+
+### Features
+
+* add file release 3 commit 1 ([8c5b73a](https://github.com/DefinitelyATestOrg/test-4-repo-1/commit/8c5b73a8f67819662ebb3507bb36cd0c97a4cccd))
+* add file release 3 commit 2 ([e463006](https://github.com/DefinitelyATestOrg/test-4-repo-1/commit/e463006775433d533d996fa386c07b39d001e379))
+* add file release 3 commit 3 ([6bba3e4](https://github.com/DefinitelyATestOrg/test-4-repo-1/commit/6bba3e4ff22e8142e96a6102ee9d8daa4c911783))
+* add file release 3 commit 4 ([949933e](https://github.com/DefinitelyATestOrg/test-4-repo-1/commit/949933e3171f0f86ddec4393e42e1c7633a26c19))
+* add file release 3 commit 5 ([4816626](https://github.com/DefinitelyATestOrg/test-4-repo-1/commit/481662641400014158ad0ec3e7166306fade2576))
+
 ## 0.0.2 (2023-09-17)
 
 Full Changelog: [v0.0.1...v0.0.2](https://github.com/DefinitelyATestOrg/test-4-repo-1/compare/v0.0.1...v0.0.2)
